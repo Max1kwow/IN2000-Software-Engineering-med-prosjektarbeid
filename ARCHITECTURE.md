@@ -22,7 +22,7 @@ By adopting this structure, it was easier to implement important object-oriented
 
 ## The Architecture of our Application
 
-![Architecture]([app architecture.png](https://github.com/Max1kwow/IN2000-Software-Engineering-med-prosjektarbeid/blob/main/app%20architecture.png))
+![Architecture](https://github.com/Max1kwow/IN2000-Software-Engineering-med-prosjektarbeid/blob/main/app%20architecture.png)
 
 
 *This is an illustration of the apps architecture, which is structured according to the MVVM design pattern, and divided into a UI layer and a data layer.*
